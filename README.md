@@ -168,7 +168,7 @@ git clone https://github.com/Sujan-Adhikari875/Credit_Wise.git
 Install dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip install Pandas NumPy Matplotlib Seaborn Scikit-Learn
 ```
 
 Launch Jupyter Notebook:
