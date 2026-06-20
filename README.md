@@ -27,18 +27,34 @@ Through this project, I gained hands-on experience with:
 
 The dataset contains information about loan applicants, including:
 
-* Gender
-* Marital Status
-* Dependents
-* Education
-* Employment Status
-* Applicant Income
-* Co-applicant Income
-* Loan Amount
-* Loan Term
-* Credit History
-* Property Area
-* Loan Approval Status (Target Variable)
+* Loan_Approved                      
+* Credit_Score                       
+* Applicant_Income                  
+* Employer_Category_MNC              
+* Loan_Purpose_Personal              
+* Marital_Status_Single            
+* Property_Area_Urban                
+* Collateral_Value                  
+* Coapplicant_Income                 
+* Loan_Purpose_Home                  
+* Employment_Status_Self-employed   
+* Employer_Category_Private         
+* Property_Area_Semiurban           
+* Savings                           
+* Loan_Purpose_Education            
+* Employer_Category_Unemployed      
+* Age                              
+* Dependents                        
+* Existing_Loans                    
+* Employer_Category_Government      
+* Employment_Status_Salaried        
+* Employment_Status_Unemployed      
+* Education_Level                   
+* Gender_Male                     
+* Loan_Purpose_Car                  
+* Loan_Term                         
+* Loan_Amount                       
+* DTI_Ratio                         
 
 ---
 
