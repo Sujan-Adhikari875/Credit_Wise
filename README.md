@@ -146,7 +146,7 @@ There are several areas where this project can be extended:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/loan-approval-prediction.git
+git clone https://github.com/Sujan-Adhikari875/Credit_Wise.git
 ```
 
 Install dependencies:
